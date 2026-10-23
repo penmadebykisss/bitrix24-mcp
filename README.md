@@ -109,6 +109,8 @@ with no activity and no open tasks, overdue tasks by employee. Set `BITRIX24_WEB
 npx -y github:penmadebykisss/bitrix24-mcp
 ```
 
+**Ready-made agent skill:** [Bitrix24 CRM Sales Assistant](https://www.agensi.io/skills/bitrix24-crm-sales-assistant) on Agensi — free SKILL.md with usage rules and configs for Claude Code, Claude Desktop, Cursor, VS Code, Windsurf and Codex.
+
 ## Смотрите также
 
 - [amocrm-kommo-mcp](https://github.com/penmadebykisss/amocrm-kommo-mcp) — то же для amoCRM и Kommo
