@@ -115,6 +115,7 @@ npx -y github:penmadebykisss/bitrix24-mcp
 
 - [amocrm-kommo-mcp](https://github.com/penmadebykisss/amocrm-kommo-mcp) — то же для amoCRM и Kommo
 - [ru-business-mcp](https://github.com/penmadebykisss/ru-business-mcp) — проверка контрагентов, курсы ЦБ, пени, производственный календарь
+- [«Бизнес-справочник РФ»](https://www.bitrix24.ru/apps/app/penmadebykisss.biznes_spravochnik_rf/) — бесплатное приложение в Битрикс24 Маркете: ru-business-mcp прямо в ИИ-ассистенте портала
 - [ru-docs-mcp](https://github.com/penmadebykisss/ru-docs-mcp) — счета с QR-кодом и акты в PDF
 - [rf-marketplaces-mcp](https://github.com/penmadebykisss/rf-marketplaces-mcp) — аналитика Wildberries
 
